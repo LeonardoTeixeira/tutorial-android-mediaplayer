@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tutorial MediaPlayer</string>
+
+    <string name="animal_dog">Cachorro</string>
+    <string name="animal_cat">Gato</string>
+    <string name="animal_horse">Cavalo</string>
+    <string name="animal_cow">Vaca</string>
+    <string name="animal_pig">Porco</string>
+    <string name="animal_rooster">Galo</string>
+    <string name="animal_lion">Leão</string>
+    <string name="animal_turkey">Peru</string>
+</resources>
